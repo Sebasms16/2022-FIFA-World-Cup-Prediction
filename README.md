@@ -4,3 +4,4 @@ For this project, data is extracted from URLs using the web scraping technique, 
 After this, the prediction of each of the World Cup matches is made, predicting each result, from the group stage, where the classified teams in each group are predicted, and after this, each game until the World Cup final. .
 
 This project has helped me gain and implement knowledge about various important aspects in data science, such as: Data extraction, data cleaning and manipulation.
+Among the tools that I have used to test this project are different IDE's, libraries and techniques. In addition to the programming languages used, in this case Python, which was applied using Jupyter Notebook, an interactive web application. As for the IDE used, it was Visual Studio Code. Among the libraries are: Pandas, Scipy.stats and selenium
